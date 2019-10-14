@@ -6,8 +6,8 @@
 
 
 ## Situs Tutorial
-
-
+1. [https://codinginfinite.com](https://codinginfinite.com)
+2. [https://www.journaldev.com](https://www.journaldev.com)
 
 ## Design
 1. [https://getwaves.io/](https://getwaves.io/)
