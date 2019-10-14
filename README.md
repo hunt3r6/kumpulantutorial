@@ -10,3 +10,5 @@
 
 
 ## Design
+1. [https://getwaves.io/](https://getwaves.io/)
+2. [https://www.blobmaker.app/](https://www.blobmaker.app/)
