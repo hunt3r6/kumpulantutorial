@@ -28,3 +28,6 @@
 3. [Firebase Storage - Upload and Retrieve Images - Part 2](https://www.youtube.com/watch?v=gqIWrNitbbk&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=3)
 4. [Firebase Storage - Upload and Retrieve Images - Part 3](https://www.youtube.com/watch?v=lPfQN-Sfnjw&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=4)
 5. [Firebase Storage - Upload and Retrieve Images - Part 4](https://www.youtube.com/watch?v=3LnMk0-k8bw&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=5)
+
+## 504 Gateway Timeout When Importing Large Data
+1. [https://github.com/laravel/valet/issues/315]
