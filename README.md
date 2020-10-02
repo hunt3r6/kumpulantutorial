@@ -33,4 +33,4 @@
 1. [https://github.com/laravel/valet/issues/315]
 
 ## Tutorial GIT
-1. Setting up multiple GitLab accounts [https://medium.com/uncaught-exception/setting-up-multiple-gitlab-accounts-82b70e88c437#:~:text=GitLab%20does%20not%20allow%20you,~%2F.]
+1. Setting up multiple GitLab accounts [https://medium.com/uncaught-exception/setting-up-multiple-gitlab-accounts-82b70e88c437]
