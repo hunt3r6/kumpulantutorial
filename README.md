@@ -29,8 +29,27 @@
 4. [Firebase Storage - Upload and Retrieve Images - Part 3](https://www.youtube.com/watch?v=lPfQN-Sfnjw&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=4)
 5. [Firebase Storage - Upload and Retrieve Images - Part 4](https://www.youtube.com/watch?v=3LnMk0-k8bw&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8&index=5)
 
-## 504 Gateway Timeout When Importing Large Data
-1. [https://github.com/laravel/valet/issues/315]
+## Tutorial Laravel
+1. 504 Gateway Timeout When Importing Large Data On Laravel [https://github.com/laravel/valet/issues/315]
+2. ### Logging with parameters
+
+You can write `Log::info()`, or shorter `info()` message with additional parameters, for more context about what happened.
+
+```php
+Log::info('User failed to login.', ['id' => $user->id]);
+```
+
+### More convenient DD
+
+Instead of doing `dd($result)` you can put `->dd()` as a method directly at the end of your Eloquent sentence, or any Collection.
+
+```php
+// Instead of
+$users = User::where('name', 'Taylor')->get();
+dd($users);
+// Do this
+$users = User::where('name', 'Taylor')->get()->dd();
+```
 
 ## Tutorial GIT
 1. Setting up multiple GitLab accounts [https://medium.com/uncaught-exception/setting-up-multiple-gitlab-accounts-82b70e88c437#:~:text=GitLab%20does%20not%20allow%20you,~%2F.]
